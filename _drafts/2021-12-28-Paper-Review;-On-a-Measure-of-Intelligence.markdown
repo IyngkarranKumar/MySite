@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paper Summary: On a Measure of Intelligence (F.Chollet)"
-date:   2021-12-28 15:08:54 +0000
+
 
 ---
 A summary of the paper "On a Measure of Intelligence" by Francois Chollet.
