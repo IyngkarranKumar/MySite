@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Previous work
-permalink: /work/
 ---
 
-Here is a collection of how I've spent my time over the years 
+Here's some of the work I've done/am doing.
 
 <br><br>
 

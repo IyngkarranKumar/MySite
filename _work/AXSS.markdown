@@ -2,11 +2,12 @@
 layout: page
 title: Axiom Space scholarship
 description: A competition I entered in June 2021
+
 ---
 
 
-In June 2021 I participated in an competition run by [Axiom Space](https://www.axiomspace.com/) - a company looking to create the world's first private space station. Space stations are positioned in _low earth orbit_, and as a result of undergoing constant freefall around the Earth astronauts inside experience a microgravity environment (weightlessness). It turns out that this opens the door to a lot more science! Axiom already have some plans on to what to do aboard their new space station, but they were looking for more and asked students around the world to get thinking. <br>
-I ended up proposing that we use the microgravity environment to rethink printed circuit boards, and it  [won!](https://www.axiomspace.com/news/axiom-space-reveals-winners-of-inaugural-stars-scholarship-incubating-new-ideas-for-microgravity-research). So, if you're interested in printed circuit boards and can afford 2 tickets to low-earth orbit, drop me and email and we can go and test this out :) <br>
+In June 2021 I participated in an competition run by [Axiom Space](https://www.axiomspace.com/) - a company looking to create the world's first private space station. Space stations are positioned in _low earth orbit_, a result of this being that astronauts inside experience a microgravity environment (weightlessness). It turns out that this opens the door to a lot more science! Axiom already have some plans on to what to do aboard their new space station, but they were looking for more and asked students around the world to get thinking. <br>
+I ended up proposing that we use the microgravity environment to rethink printed circuit boards and, to my suprise, [won the competition!](https://www.axiomspace.com/news/axiom-space-reveals-winners-of-inaugural-stars-scholarship-incubating-new-ideas-for-microgravity-research) along with two other teams. So, if you're interested in printed circuit boards and can afford 2 tickets to low-earth orbit, drop me and email and we can go and test this out :) <br>
 The initial proposal did feature images (that's what S1,S2,S3... in the text below refer to). Those will have to wait until I figure out how to nicely insert images onto this page.
 
 ### The Submission ###
